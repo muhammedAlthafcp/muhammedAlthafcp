@@ -39,8 +39,8 @@
 
 ### 🤝 Let's Connect
 
-- 👉 Email: akashkv11@gmail.com
-- 👉 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-kv-ba6060230/)
+- 👉 Email:muhammedalthafcp449@gmail.com
+- 👉 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/)
 
 ---
 
