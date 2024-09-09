@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, I'm Akash 👋</h1>
+<h1 align="center">Hi there, I'm Althaf cp 👋</h1>
 <p align="center">
-  <a href="mailto:akashkv11@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/akash-kv-ba6060230/">LinkedIn</a> 
+  <a href="mailto:muhammedalthafcp449@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/">LinkedIn</a> 
 </p>
 
 ---
