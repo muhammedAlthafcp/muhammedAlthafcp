@@ -32,7 +32,7 @@
 
 ### 🚀 Currently Exploring
 
-- Next.js for server-side rendering
+- recat for server-side rendering
 - Clean Architecture for scalable applications
 
 ---
