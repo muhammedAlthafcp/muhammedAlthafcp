@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed althaf cp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed althaf cp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhammed althaf cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed althaf cp" height="30" width="40" /></a>
 </p>
 
