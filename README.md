@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Althaf 👋</h1>
 <p align="center">
-  <a href="mailto:muhammedalthafcp449@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/">LinkedIn</a> 
+  <a href="mailto:muhammedalthafcp449@gmail.com" target="_blank">Email</a> •
+  <a href="https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/" target="_blank">LinkedIn</a>
 </p>
+
 
 ---
 
