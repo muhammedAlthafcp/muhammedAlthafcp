@@ -7,9 +7,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer Gif" width="300">
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
