@@ -9,7 +9,7 @@
 <!-- Glassmorphism Identity Card -->
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4F46E5&background=FFFFFF10&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Full+Stack+Developer;🚀+MERN+Stack+Specialist;⚡+Performance+Optimizer;🎯+DSA+Enthusiast" alt="Identity Card" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=4F46E5&background=FFFFFF10&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Full+Stack+Developer;🚀+MERN+Stack+Specialist;⚡+Performance+Optimizer;🎨+UI%2FUX+Enthusiast" alt="Identity Card" />
   </picture>
 </div>
 
@@ -17,27 +17,28 @@
 
 <!-- Modern Status Indicators -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Projects-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=statuspage" />
-  <img src="https://img.shields.io/badge/🌍_Location-India-6366F1?style=for-the-badge&labelColor=1E1B4B&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/💬_Languages-English_•_Hindi_•_Malayalam-8B5CF6?style=for-the-badge&labelColor=1E1B4B&logo=googletranslate" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGUAGES-ENGLISH%20•%20HINDI-purple?style=for-the-badge&logo=google-translate&logoColor=white" />
 </div>
 
 <br/>
 
-<!-- 3D Floating Stats with Glassmorphism -->
+<!-- GitHub Stats Section -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammedalthafcp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=FFFFFF&icon_color=8B5CF6" />
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammedalthafcp&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=000000&icon_color=8B5CF6" />
-  </picture>
-</div>
 
-<br/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammedalthafcp&show_icons=true&theme=tokyonight&hide_border=true" alt="Althaf's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=muhammedalthafcp&theme=tokyonight&hide_border=true" alt="Althaf's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<!-- Streak + Top Languages -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammedalthafcp&theme=tokyonight&hide_border=true&background=00000000&ring=4F46E5&fire=8B5CF6&currStreakLabel=4F46E5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedalthafcp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F46E5&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedalthafcp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -54,13 +55,25 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:muhammedalthafcp449@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/muhammed-althaf-cp-197b2029b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/muhammedalthafcp" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
