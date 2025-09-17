@@ -37,13 +37,13 @@
 <!-- 3D Floating Stats with Glassmorphism -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammedalthafcp&show_icons=true&theme=transparent&bg_color=0D1117&border_color=6366F1&icon_color=A855F7&text_color=E5E7EB&title_color=6366F1&border_radius=20&hide_border=false">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=muhammedalthafcp&show_icons=true&theme=transparent&bg_color=FFFFFF&border_color=6366F1&icon_color=A855F7&text_color=374151&title_color=6366F1&border_radius=20&hide_border=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammedAlthafcp&show_icons=true&theme=transparent&bg_color=0D1117&border_color=6366F1&icon_color=A855F7&text_color=E5E7EB&title_color=6366F1&border_radius=20&hide_border=false">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=muhammedAlthafcp&show_icons=true&theme=transparent&bg_color=FFFFFF&border_color=6366F1&icon_color=A855F7&text_color=374151&title_color=6366F1&border_radius=20&hide_border=false" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muhammedalthafcp&theme=transparent&background=0D1117&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=20">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedalthafcp&theme=transparent&background=FFFFFF&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=374151&sideNums=374151&currStreakLabel=A855F7&sideLabels=6B7280&dates=6B7280&border_radius=20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muhammedAlthafcp&theme=transparent&background=0D1117&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A855F7&sideLabels=9CA3AF&dates=9CA3AF&border_radius=20">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedAlthafcp&theme=transparent&background=FFFFFF&border=6366F1&stroke=A855F7&ring=6366F1&fire=F59E0B&currStreakNum=374151&sideNums=374151&currStreakLabel=A855F7&sideLabels=6B7280&dates=6B7280&border_radius=20" />
   </picture>
 </div>
 
